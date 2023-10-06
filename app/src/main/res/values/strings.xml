@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Kalki</string>
+    <string name="my_bookings">Bookings</string>
+    <string name="profile">Profile</string>
+    <string name="my_qr">My QR</string>
+    <string name="scan_qr">Scan QR</string>
+    <string name="empty_value">Nothing</string>
+    <string name="home">Home</string>
+    <string name="malls">Malls</string>
+    <string name="beauty">Beauty</string>
+    <string name="food_court">Food Court</string>
+    <string name="restuarent">Restaurant</string>
+    <string name="wear_mask">Wear mask</string>
+    <string name="hand_wash">Wash Hand </string>
+    <string name="keep_distance">Keep Distance</string>
+</resources>

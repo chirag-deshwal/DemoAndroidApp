@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_myBookings_btn"
+        android:title="@string/my_bookings"
+        android:icon="@drawable/booking_tg" />
+
+    <item
+        android:id="@+id/nav_scanQR_btn"
+        android:title="@string/scan_qr"
+        android:icon="@drawable/scan_qr_tg" />
+
+    <!-- HOME  BTN here -->
+
+    <item
+        android:id="@+id/nav_home_btn"
+        android:title="@string/home"
+        android:icon="@drawable/home_select_tg" />
+    <item
+        android:id="@+id/nav_myQR_btn"
+        android:title="@string/my_qr"
+        android:icon="@drawable/my_qr_tg" />
+
+    <item
+        android:id="@+id/nav_profile_btn"
+        android:title="@string/profile"
+        android:icon="@drawable/profile_tg_btn" />
+
+</menu>

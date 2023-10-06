@@ -1,0 +1,24 @@
+<!-- custom_tab.xml -->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <ImageView
+        android:id="@+id/tab_icon"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:scaleType="centerInside"
+        android:src="@drawable/group_3"
+        android:contentDescription="@null" />
+
+    <TextView
+        android:id="@+id/tab_text"
+        android:textSize="12sp"
+        android:fontFamily="sans-serif-light"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tab Text" />
+</LinearLayout>
