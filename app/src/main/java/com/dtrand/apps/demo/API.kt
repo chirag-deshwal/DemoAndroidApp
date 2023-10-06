@@ -6,6 +6,11 @@ import retrofit2.http.GET
 import retrofit2.http.POST
 
 
+
+// This demo api for the Retrofit implementation
+
+// getting info from :  Json URL : https://random.dog/woof.json
+// returning any random dog image, GIF or video
 class API {
 
     class Modal(var fileSizeBytes : Int, var url : String)

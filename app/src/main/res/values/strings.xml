@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Kalki</string>
+    <string name="app_name">Walkin</string>
     <string name="my_bookings">Bookings</string>
     <string name="profile">Profile</string>
     <string name="my_qr">My QR</string>
@@ -13,4 +13,6 @@
     <string name="wear_mask">Wear mask</string>
     <string name="hand_wash">Wash Hand </string>
     <string name="keep_distance">Keep Distance</string>
+    <string name="gym">GYM</string>
+    <string name="retail">Retail</string>
 </resources>

@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.dtrand.game.kalki"
+    namespace = "com.dtrand.apps.demo"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.dtrand.game.kalki"
+        applicationId = "com.dtrand.apps.demo"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
