@@ -63,7 +63,7 @@ class HomeScreen :  AppCompatActivity()  {
             showSnackbar(window.decorView, "Notifications  is here!")
         }
         findViewById<View>(R.id.searchBtn).setOnClickListener {
-            showSnackbar(window.decorView, "Notifications  is here!")
+            showSnackbar(window.decorView, "Search Action is here!")
         }
 
     }
